@@ -5,8 +5,6 @@
 ## 2–8 September 2023, Kenya Medical Research Institute (KEMRI)
 
 [Wellcome Connecting Science Course Run Website Link](https://coursesandconferences.wellcomeconnectingscience.org/event/molecular-approaches-to-clinical-microbiology-in-africa-20230902/) <br /> 
-[Course Time Table YEAR](Add link here) <br /> 
-[Course Informatics Guide](Add link here)
 
 # Summary
 
