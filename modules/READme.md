@@ -7,6 +7,4 @@ Converting between markdown to PDF can be performed using pandoc. Here is a tuto
 
 [Converting with Pandoc](https://github.com/WCSCourses/format_convert)
 
-
-
 There is an example markdown file - module_base.md
