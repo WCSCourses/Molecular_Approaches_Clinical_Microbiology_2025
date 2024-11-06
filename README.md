@@ -8,15 +8,15 @@
 [Course TimeTable](https://github.com/WCSCourses/Molecular_Approaches_Clinical_Microbiology_2024/blob/main/Timetable.pdf) <br /> 
 [Course Informatics Guide](https://github.com/WCSCourses/Molecular_Approaches_Clinical_Microbiology_2024/blob/main/Course_Informatics_Guide.md) <br /> 
 
-# Summary
+### Summary
 
 Molecular and genomic techniques are revolutionising the routine identification and characterisation of pathogens, creating new opportunities and challenges in all areas of clinical microbiology from clinical diagnostics to fundamental research. This course will examine the impact of these approaches in the clinical setting using worked examples of bacterial pathogens of importance in Africa.
 
-# Target Audience
+### Target Audience
 
 The course is aimed at those primarily trained in culture-based microbiology and combines an understanding of the latest research techniques and theoretical approaches, with practical methods to provide a foundation-level of understanding of the philosophy, methods, and specialist terminology of molecular techniques. 
 
-## Learning outcomes
+### Learning outcomes
 
 What will you be able to do?
 
@@ -28,7 +28,7 @@ After attending this course, participants will be able to:
 - Create sequence data using next generation sequencing.
 - Analyse genomic data using publicly available software tools to identify causative organisms in an infection and to track an outbreak using WGS.
 
-# Programme
+### Programme
 
 Teaching will be based around three themes, chosen to represent three of the most pressing clinical imperatives in clinical bacteriology throughout the continent:
 
