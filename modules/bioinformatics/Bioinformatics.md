@@ -1,8 +1,8 @@
-# Molecular Approaches to Clinical Microbiology in Africa 2023
+# Molecular Approaches to Clinical Microbiology in Africa 2024
 
-2 - 8 September 2023
+31 August - 6 September 2024
  
-Kenya Medical Research Institute (KEMRI)
+Stellenbosch University, South Africa
 
 ## Topic: Bioinformatics
 
@@ -106,7 +106,7 @@ cp /usr/local/share/MACMA/bioinformatics/16S_ref.fasta.gz .
 ls -lh
 ```
 You should see something like the following:
-> ``-rw-rw-r-- 1 keith keith 230M Dec 11  2017 16S_ref.fasta.gz``
+> ``-rw-rw-r-- 1 manager manager 230M Dec 11  2017 16S_ref.fasta.gz``
 
 The file size is 230MB.
 
@@ -119,7 +119,7 @@ When the file has finished uncompressing you will see that the file size is now 
 ls -lh
 ```
 
-> ``-rw-rw-r-- 1 keith keith 1.1G Dec 11  2017 16S_ref.fasta``
+> ``-rw-rw-r-- 1 manager manager 1.1G Dec 11  2017 16S_ref.fasta``
 
 The file size is now 1.1GB.
 
@@ -131,7 +131,7 @@ We can use this file to create a BLAST database against which we can query the s
 ```
 makeblastdb -in 16S_ref.fasta -dbtype nucl -out 16Sdb
 ```
-Now if you list the contents of the directory, you should see 3 new files: 16Sdb.nhr, 16Sdb.nin and 16Sdb.nsq. These together comprise the BLAST database.
+Now if you list the contents of the directory, you should see 8 new files: 16Sdb.ndb, 16Sdb.nhr, 16Sdb.nin, 16Sdb.njs, 16Sdb.not, 16Sdb.nsq, 16Sdb.ntf, and 16Sdb.nto. These together comprise the BLAST database.
 
 16S sequences have been generated for 4 specimens. You can download these from <https://pubmlst.org/static/training/16S.tar>.
 ```
@@ -165,14 +165,22 @@ For these exercises we will be using the program MEGA (Molecular Evolutionary Ge
 
 ![](images/stop-sign.png)
 
-You have been provided with a dataset that consists of the sequences of a gene for a collection of diverse *Mycobacteria* spp. isolates spanning the known diversity of the genus. You can find these sequences in https://github.com/WCSCourses/MolAppAfrica_2023/tree/main/course_data/bioinformatics/phylogenetics. For the workshop we will be running this practical using the Linux virtual machines - the data have already been installed on these, but you will need to copy them into your account to make it easy to drag-and-drop the files. To do this, open a terminal window and type:
+You have been provided with a dataset that consists of the sequences of a gene for a collection of diverse *Mycobacteria* spp. isolates spanning the known diversity of the genus. You can find these sequences in https://github.com/WCSCourses/Molecular_Approaches_Clinical_Microbiology_2024/tree/main/course_data/bioinformatics/phylogenetics. For the workshop we will be running this practical using the Linux virtual machines. You will need to download the data into your user directories on your virtual machine to make it easy to drag-and-drop the files. To do this, open a terminal window and type:
 
 ```
+cd
 mkdir Desktop/phylogenetics
-cp /usr/local/share/MACMA/bioinformatics/*.fas Desktop/phylogenetics
+cd Desktop/phylogenetics
+wget --output-document=phylogenetics.tar https://tinyurl.com/24dzfqk4
 ```
 
-You should now see a new folder on your desktop called 'phylogenetics' that contains two files. You will be able to drag-and-drop from here into the MEGA window later.
+This will download a tar file called phylogenetics.tar that contains 2 FASTA files (the long URL was shortened using tinyurl). Extract the FASTA files using the tar command below
+
+```
+tar xvf phylogenetics.tar
+```
+
+You should now see a new folder on your desktop called 'phylogenetics' that contains two FASTA files (and the tar file that you downloaded). You will be able to drag-and-drop from here into the MEGA window later.
 
 ![](images/linux_phylo.jpg)
 
@@ -310,11 +318,11 @@ The bootstrap values will be displayed on each branch of the tree.
 ## Practical 3: Introduction to molecular sequence typing using PubMLST
 PubMLST.org (https://pubmlst.org) is a free online web-based resource that supports sequence typing nomenclature as well as containing extensive isolate and genome libraries.
 
-In this practical we will be using the PubMLST *Neisseria* database to identify MLST alleles, sequence types (STs), and the finetyping antigen peptide (PorA and FetA) variants, for a set of capsular group X meningococcal isolates from Africa. Sequence data for these can be found at https://github.com/WCSCourses/MolAppAfrica_2023/tree/main/course_data/bioinformatics/sequence_typing/.
+In this practical we will be using the PubMLST *Neisseria* database to identify MLST alleles, sequence types (STs), and the finetyping antigen peptide (PorA and FetA) variants, for a set of capsular group X meningococcal isolates from Africa. Sequence data for these can be found at https://github.com/WCSCourses/Molecular_Approaches_Clinical_Microbiology_2024/tree/main/course_data/bioinformatics/sequence_typing/.
 
-First download and open the Excel worksheet (https://github.com/WCSCourses/MolAppAfrica_2023/raw/main/course_data/bioinformatics/sequence_typing/worksheet.xlsx). Fill this in as you go.
+First download and open the Excel worksheet (https://github.com/WCSCourses/Molecular_Approaches_Clinical_Microbiology_2024/raw/main/course_data/bioinformatics/sequence_typing/worksheet.xlsx). Fill this in as you go.
 
-If you wish, you can download all the files as a zip archive from https://github.com/WCSCourses/MolAppAfrica_2023/raw/main/course_data/bioinformatics/sequence_typing/data.zip. 
+If you wish, you can download all the files as a zip archive from https://github.com/WCSCourses/Molecular_Approaches_Clinical_Microbiology_2024/raw/main/course_data/bioinformatics/sequence_typing/data.zip. 
 
 ### Navigating PubMLST
 Open a new browser window and type: https://pubmlst.org/neisseria
@@ -376,9 +384,11 @@ Try to complete the rest of the spreadsheet. It should now be much quicker to do
 5. Are the antigens associated with a particular ST always the same?
 
 ## Practical 4: Whole genome sequence analyses using PubMLST
-PubMLST.org (https://pubmlst.org) is a free online web-based resource which uses the Bacterial Isolate Genome Sequence database (BIGSdb) genomics platform. In addition to extensive data libraries (>1,200,000 bacterial isolates and >1,000,000 genomes) PubMLST incorporates typing information and analytical tools for identifying and storing genetic variation on a gene-by-gene basis (1). PubMLST databases are available for many bacterial species, including *Neisseria meningitidis* within the PubMLST Neisseria database, which can be used to type bacteria enabling epidemiological and other investigations. 
+PubMLST.org (https://pubmlst.org) is a free online web-based resource which uses the Bacterial Isolate Genome Sequence database (BIGSdb) genomics platform. In addition to extensive data libraries (>1,500,000 bacterial isolates and >1,200,000 genomes) PubMLST incorporates typing information and analytical tools for identifying and storing genetic variation on a gene-by-gene basis (1). PubMLST databases are available for many bacterial species, including *Neisseria meningitidis* within the PubMLST Neisseria database, which can be used to type bacteria enabling epidemiological and other investigations. 
 
 In this practical you will use PubMLST to analyse whole genome sequence (WGS) data from meningococci isolated in Africa. These data originate from 716 meningococci obtained 2011-2016 from 11 countries in the meningitis belt and were published in EBioMedicine in 2019 (2). 
+
+> **Please note that you will need to sign up for a PubMLST account and register this with the *Neisseria* isolate database. See https://pubmlst.org/site-accounts.**
 
 ### Navigating PubMLST
 Open a new browser window and type: https://pubmlst.org/neisseria
@@ -539,16 +549,3 @@ Explore these data to answer the following questions:
 3.	Zhou Z, Alikhan NF, Sergeant MJ, Luhmann N, Vaz C, Francisco AP, et al. GrapeTree: Visualization of core genomic relationships among 100,000 bacterial pathogens. [Genome Research. 2018;28:1395-1404](https://pubmed.ncbi.nlm.nih.gov/30049790/).
 4.	Bratcher HB, Corton C, Jolley KA, Parkhill J, Maiden MC. A gene-by-gene population genomics platform: de novo assembly, annotation and genealogical analysis of 108 representative Neisseria meningitidis genomes. [BMC Genomics. 2014;15:1138](https://pubmed.ncbi.nlm.nih.gov/25523208/).
 
-### Further questions
-
-* What happened to invasive meningococcal disease after the introduction of PsA-TT (MenAfriVac®) vaccine?
-
-  * Was this uniform across the meningitis belt?
- 
-* What would be your advice to policy makers
-
-  * Should vaccination programmes be continued, ended, or changed?
-
-* How would you support this advice with genomic data?  
-
-  * How can this information be presented to different audiences?
