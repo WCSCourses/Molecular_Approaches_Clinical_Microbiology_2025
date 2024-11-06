@@ -47,8 +47,8 @@ These techniques will be explored in the lectures and tutorials and employed dur
 
 | Course Date | Course Title | Location |Citation DOI |
 |-------------|--------------|----------|-------------|
-| 2–8 September 2023 | [Molecular Approaches to Clinical Microbiology in Africa](https://coursesandconferences.wellcomeconnectingscience.org/event/molecular-approaches-to-clinical-microbiology-in-africa-20230902/) | Kenya Medical Research Institute (KEMRI) |[![DOI](https://zenodo.org/badge/835262712.svg)](https://zenodo.org/doi/10.5281/zenodo.13132761)|
-| 31 August–6 September 2024| [Molecular Approaches to Clinical Microbiology in Africa](https://coursesandconferences.wellcomeconnectingscience.org/event/molecular-genomic-approaches-to-clinical-microbiology-in-africa-20240831/) |Stellenbosch University, South Africa|Citation DOI |
+| 2–8 September 2023 | [Molecular Approaches to Clinical Microbiology in Africa](https://coursesandconferences.wellcomeconnectingscience.org/event/molecular-approaches-to-clinical-microbiology-in-africa-20230902/) | Kenya Medical Research Institute (KEMRI) |[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13132762.svg)](https://doi.org/10.5281/zenodo.13132762)|
+| 31 August–6 September 2024| [Molecular Approaches to Clinical Microbiology in Africa](https://coursesandconferences.wellcomeconnectingscience.org/event/molecular-genomic-approaches-to-clinical-microbiology-in-africa-20240831/) |Stellenbosch University, South Africa| [![DOI](https://zenodo.org/badge/835262712.svg)](https://doi.org/10.5281/zenodo.13132761)|
 
 ******
 
