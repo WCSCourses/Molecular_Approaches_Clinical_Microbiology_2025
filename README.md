@@ -2,18 +2,21 @@
 
 # Molecular Approaches to Clinical Microbiology in Africa
 
-[Wellcome Connecting Science GitHub Home Page](https://github.com/WCSCourses) <br /> 
-[Wellcome Connecting Science Website](https://coursesandconferences.wellcomeconnectingscience.org/)
+## 31 August–6 September 2024, Stellenbosch University, South Africa
 
-# Summary
+[Wellcome Connecting Science Course Website Link](https://coursesandconferences.wellcomeconnectingscience.org/event/molecular-genomic-approaches-to-clinical-microbiology-in-africa-20240831/) <br /> 
+[Course TimeTable](https://github.com/WCSCourses/Molecular_Approaches_Clinical_Microbiology_2024/blob/main/Timetable.pdf) <br /> 
+[Course Informatics Guide](https://github.com/WCSCourses/Molecular_Approaches_Clinical_Microbiology_2024/blob/main/Course_Informatics_Guide.md) <br /> 
+
+### Summary
 
 Molecular and genomic techniques are revolutionising the routine identification and characterisation of pathogens, creating new opportunities and challenges in all areas of clinical microbiology from clinical diagnostics to fundamental research. This course will examine the impact of these approaches in the clinical setting using worked examples of bacterial pathogens of importance in Africa.
 
-# Target Audience
+### Target Audience
 
 The course is aimed at those primarily trained in culture-based microbiology and combines an understanding of the latest research techniques and theoretical approaches, with practical methods to provide a foundation-level of understanding of the philosophy, methods, and specialist terminology of molecular techniques. 
 
-## Learning outcomes
+### Learning outcomes
 
 What will you be able to do?
 
@@ -25,7 +28,7 @@ After attending this course, participants will be able to:
 - Create sequence data using next generation sequencing.
 - Analyse genomic data using publicly available software tools to identify causative organisms in an infection and to track an outbreak using WGS.
 
-# Programme
+### Programme
 
 Teaching will be based around three themes, chosen to represent three of the most pressing clinical imperatives in clinical bacteriology throughout the continent:
 
@@ -43,12 +46,31 @@ For each of these themes the following approaches will be covered:
 
 These techniques will be explored in the lectures and tutorials and employed during the course practical sessions in the cross-cutting themes of pathogen detection and characterisation, including antimicrobial resistance and the evolution of pathogens, and the application of the data in the improvement of interventions to reduce disease burden.
 
-**Course Runs**      
+**Course Instructors**   
 
-| Course Date | Course Title | Location |Citation DOI |
-|-------------|--------------|----------|-------------|
-| 2–8 September 2023 | [Molecular Approaches to Clinical Microbiology in Africa](https://coursesandconferences.wellcomeconnectingscience.org/event/molecular-approaches-to-clinical-microbiology-in-africa-20230902/) | Kenya Medical Research Institute (KEMRI) |[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13132762.svg)](https://doi.org/10.5281/zenodo.13132762)|
-| 31 August–6 September 2024| [Molecular Approaches to Clinical Microbiology in Africa](https://coursesandconferences.wellcomeconnectingscience.org/event/molecular-genomic-approaches-to-clinical-microbiology-in-africa-20240831/) |Stellenbosch University, South Africa| [![DOI](https://zenodo.org/badge/835262712.svg)](https://doi.org/10.5281/zenodo.13132761)|
+- [Angeziwa Chunga](https://orcid.org/0000-0001-6500-2902), Kamuzu University of Health Sciences, Malawi
+- [Anzaan Dippenaar](https://www.uantwerpen.be/en/staff/anzaan-dippenaar/), University of Antwerp, Belgium
+- [Brenda Kwambana-Adams](https://www.lstmed.ac.uk/about/people/brenda-kwambana-adams), Liverpool School of Tropical Medicine, Malawi
+- [Chisomo Msefula](https://orcid.org/0000-0003-2304-886X), Kamuzu University of Health Sciences, Malawi
+- [Elizabeth (Lizma) Streicher](http://www.sun.ac.za/english/faculty/healthsciences/Molecular_Biology_Human_Genetics/tbgenomics/Pages/default.aspx), Stellenbosch University, South Africa 
+- [Keith Jolley](https://www.biology.ox.ac.uk/people/dr-keith-jolley), University of Oxford
+- [Leonard Ndwiga](https://www.linkedin.com/in/lndwiga), University of Glasgow
+- [Martin Maiden](https://www.biology.ox.ac.uk/people/professor-martin-maiden), University of Oxford
+- [Odile Harrison](https://www.ndph.ox.ac.uk/team/odile-harrison), University of Oxford
+- [Robert Onsare](https://www.kemri.go.ke/cmr-staff-profiles/#1635772764582-f76cb380-cf24), Kenya Medical Research Institute
+- [Sam Kariuki](http://www.kemri.go.ke/cmr-staff-profiles/#1635768168860-825b002f-afef), Kenya Medical Research Institute
+
+
+**Wellcome Connecting Science Team**   
+
+- [Alice Matimba](https://uk.linkedin.com/in/alice-matimba-8805177), Head of Training and Global Capacity
+- [Isabela Malta](https://www.linkedin.com/in/isabela-malta-754503162/), Assistant Global Training Manager
+- [Karon Chappell](https://coursesandconferences.wellcomeconnectingscience.org/about-us/the-team/), Event Organiser
+- [Cassandra Soo](https://uk.linkedin.com/in/cassandra-claire-soo-b3783277/ms?trk=people-guest_people_search-card), Laboratory Courses Manager
+- [Aaron Dean](https://www.wellcomeconnectingscience.org/person/dean-aaron/), Laboratory Technical Officer
+- [Christopher Adamson](https://www.wellcomeconnectingscience.org/person/adamson-chris/), Laboratory Operations Officer
+- [Martin Asltett](https://coursesandconferences.wellcomeconnectingscience.org/about-us/the-team/), Informatics Manager
+- [Vaishnavi Vikas Gangadhar](https://www.wellcomeconnectingscience.org/person/gangadhar-vaishnavi/), Informatics Technical Officer
 
 ******
 
