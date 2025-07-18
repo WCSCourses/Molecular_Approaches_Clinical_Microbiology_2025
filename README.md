@@ -1,24 +1,27 @@
 <img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="300" height="50"> 
 
-# Molecular Approaches to Clinical Microbiology in Africa
+# Molecular and Genomic Approaches to Clinical Microbiology in Africa
 
-## 31 August–6 September 2024, Stellenbosch University, South Africa
+## 13-19 September 2025, MRC Unit, The Gambia
 
-[Wellcome Connecting Science Course Website Link](https://coursesandconferences.wellcomeconnectingscience.org/event/molecular-genomic-approaches-to-clinical-microbiology-in-africa-20240831/) <br /> 
-[Course TimeTable](https://github.com/WCSCourses/Molecular_Approaches_Clinical_Microbiology_2024/blob/main/Timetable.pdf) <br /> 
-[Course Informatics Guide](https://github.com/WCSCourses/Molecular_Approaches_Clinical_Microbiology_2024/blob/main/Course_Informatics_Guide.md) <br /> 
+[Wellcome Connecting Science Course Website Link](https://coursesandconferences.wellcomeconnectingscience.org/event/molecular-and-genomic-approaches-to-clinical-microbiology-in-africa-20250913/) <br /> 
+[Course Informatics Guide](https://github.com/WCSCourses/Molecular_Approaches_Clinical_Microbiology_2025/blob/main/Course_Informatics_Guide.md) <br /> 
+
+**Discover the revolutionary potential of molecular and genomic techniques in clinical microbiology for tackling infectious diseases** 
 
 ### Summary
 
-Molecular and genomic techniques are revolutionising the routine identification and characterisation of pathogens, creating new opportunities and challenges in all areas of clinical microbiology from clinical diagnostics to fundamental research. This course will examine the impact of these approaches in the clinical setting using worked examples of bacterial pathogens of importance in Africa.
+Molecular and genomic techniques are revolutionising the routine identification and characterisation of pathogens, opening new opportunities and challenges in all areas of clinical microbiology from clinical diagnostics to fundamental research. This course will examine the impact of these approaches using region-specific clinical scenarios. 
+
+The week-long training course will be held at, and in collaboration, with the [MRC Unit in The Gambia](https://www.youtube.com/watch?v=ZeR-wK0rXhU) and feature an intensive programme delivered by field experts providing clinical microbiologists and laboratory scientists with a concise yet comprehensive overview of the latest research and best practice in this essential area.
 
 ### Target Audience
 
-The course is aimed at those primarily trained in culture-based microbiology and combines an understanding of the latest research techniques and theoretical approaches, with practical methods to provide a foundation-level of understanding of the philosophy, methods, and specialist terminology of molecular techniques. 
+This course is open only to applicants based in Africa.
+
+Applicants should have demonstrable experience in a relevant field (microbiology, specifically bacteriology) and be, clinical trainees or specialists in medical microbiology; postdoctoral scientists; senior technicians; or research assistants with a Master’s degree. Clinically qualified applicants are especially encouraged to apply.
 
 ### Learning outcomes
-
-What will you be able to do?
 
 After attending this course, participants will be able to:
 
@@ -48,17 +51,17 @@ These techniques will be explored in the lectures and tutorials and employed dur
 
 **Course Instructors**   
 
-- [Angeziwa Chunga](https://orcid.org/0000-0001-6500-2902), Kamuzu University of Health Sciences, Malawi
-- [Anzaan Dippenaar](https://www.uantwerpen.be/en/staff/anzaan-dippenaar/), University of Antwerp, Belgium
+- [Kanny Diallo](https://www.linkedin.com/in/kanny-diallo-phd-1081375b/?originalSubdomain=ci), Centre Suisse de Recherche Scientifique
 - [Brenda Kwambana-Adams](https://www.lstmed.ac.uk/about/people/brenda-kwambana-adams), Liverpool School of Tropical Medicine, Malawi
-- [Chisomo Msefula](https://orcid.org/0000-0003-2304-886X), Kamuzu University of Health Sciences, Malawi
-- [Elizabeth (Lizma) Streicher](http://www.sun.ac.za/english/faculty/healthsciences/Molecular_Biology_Human_Genetics/tbgenomics/Pages/default.aspx), Stellenbosch University, South Africa 
+- [Martin Maiden](https://www.biology.ox.ac.uk/people/professor-martin-maiden), University of Oxford
+- [Elizabeth (Lizma) Streicher](http://www.sun.ac.za/english/faculty/healthsciences/Molecular_Biology_Human_Genetics/tbgenomics/Pages/default.aspx), Stellenbosch University, South Africa
+- [Dam Khan](https://www.lshtm.ac.uk/aboutus/people/khan.dam), MRC Unit The Gambia at the London School of Hygiene & Tropical Medicine, The Gambia
 - [Keith Jolley](https://www.biology.ox.ac.uk/people/dr-keith-jolley), University of Oxford
 - [Leonard Ndwiga](https://www.linkedin.com/in/lndwiga), University of Glasgow
-- [Martin Maiden](https://www.biology.ox.ac.uk/people/professor-martin-maiden), University of Oxford
-- [Odile Harrison](https://www.ndph.ox.ac.uk/team/odile-harrison), University of Oxford
-- [Robert Onsare](https://www.kemri.go.ke/cmr-staff-profiles/#1635772764582-f76cb380-cf24), Kenya Medical Research Institute
-- [Sam Kariuki](http://www.kemri.go.ke/cmr-staff-profiles/#1635768168860-825b002f-afef), Kenya Medical Research Institute
+- [Anzaan Dippenaar](https://www.uantwerpen.be/en/staff/anzaan-dippenaar/), University of Antwerp, Belgium
+- [Tiemele Laurent Simon Amoikon](https://maidenlab.zoo.ox.ac.uk/people/Simon%20Amoikon), Centre Suisse de Recherche Scientifique
+- [Shola Able-Thomas](), MRC Unit The Gambia at the London School of Hygiene & Tropical Medicine, The Gambia
+- [Noutin Fernand Michodigni](), Supranational Reference Lab for Tuberculosis, Benin
 
 
 **Wellcome Connecting Science Team**   
@@ -68,7 +71,6 @@ These techniques will be explored in the lectures and tutorials and employed dur
 - [Karon Chappell](https://coursesandconferences.wellcomeconnectingscience.org/about-us/the-team/), Event Organiser
 - [Cassandra Soo](https://uk.linkedin.com/in/cassandra-claire-soo-b3783277/ms?trk=people-guest_people_search-card), Laboratory Courses Manager
 - [Aaron Dean](https://www.wellcomeconnectingscience.org/person/dean-aaron/), Laboratory Technical Officer
-- [Christopher Adamson](https://www.wellcomeconnectingscience.org/person/adamson-chris/), Laboratory Operations Officer
 - [Martin Asltett](https://coursesandconferences.wellcomeconnectingscience.org/about-us/the-team/), Informatics Manager
 - [Vaishnavi Vikas Gangadhar](https://www.wellcomeconnectingscience.org/person/gangadhar-vaishnavi/), Informatics Technical Officer
 
@@ -80,7 +82,7 @@ The course data are free to reuse and adapt with appropriate attribution. All co
 
 ## Interested in attending a course?
 
-Take a look what courses are coming up at [Wellcome Connecting Science Courses & Conference Website](https://coursesandconferences.wellcomeconnectingscience.org/our-events/).
+Take a look at what courses are coming up at [Wellcome Connecting Science Courses & Conference Website](https://coursesandconferences.wellcomeconnectingscience.org/our-events/).
 
 ---
 
