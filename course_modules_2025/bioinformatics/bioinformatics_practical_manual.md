@@ -106,7 +106,7 @@ cp /usr/local/share/MACMA/bioinformatics/16S_ref.fasta.gz .
 ls -lh
 ```
 You should see something like the following:
-> ``-rw-rw-r-- 1 manager manager 230M Dec 11  2017 16S_ref.fasta.gz``
+> ``-rw-r--r-- 1 manager manager 230M Aug 13 08:59 16S_ref.fasta.gz``
 
 The file size is 230MB.
 
@@ -119,7 +119,7 @@ When the file has finished uncompressing you will see that the file size is now 
 ls -lh
 ```
 
-> ``-rw-rw-r-- 1 manager manager 1.1G Dec 11  2017 16S_ref.fasta``
+> ``-rw-r--r-- 1 manager manager 1.1G Aug 13 08:59 16S_ref.fasta``
 
 The file size is now 1.1GB.
 
