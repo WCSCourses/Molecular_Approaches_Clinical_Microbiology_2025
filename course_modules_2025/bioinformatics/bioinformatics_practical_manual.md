@@ -339,7 +339,7 @@ You will see a contents page. To query sequences we will be using the 'Single se
 
 ![](images/sequence_typing1.png)
 
-Open the first sequence file [01_BuFa1-11.fas](https://github.com/WCSCourses/MolAppAfrica_2023/blob/main/course_data/bioinformatics/sequence_typing/01_BuFa1-11.fas). You will see DNA sequence for the MLST loci (*abcZ*, *adk*, *aroE*, *fumC*, *gdh*, *pdhC*, and *pgm*) as well as for the *porA* and *fetA* genes. You can query a single sequence by copy and pasting it into the web form and selecting the locus. Try this for the *abcZ* sequence, selecting this locus in the dropdown box.
+Open the first sequence file [01_BuFa1-11.fas](https://github.com/WCSCourses/Molecular_Approaches_Clinical_Microbiology_2025/blob/main/course_data_2025/bioinformatics/sequence_typing/01_BuFa1-11.fas). You will see DNA sequence for the MLST loci (*abcZ*, *adk*, *aroE*, *fumC*, *gdh*, *pdhC*, and *pgm*) as well as for the *porA* and *fetA* genes. You can query a single sequence by copy and pasting it into the web form and selecting the locus. Try this for the *abcZ* sequence, selecting this locus in the dropdown box.
 
 > Make sure you select 'abcZ' and not 'abcZ (NEIS1015)' as this is not the gene fragment used in MLST - it is the full length gene used in cgMLST.
 
