@@ -165,7 +165,7 @@ For these exercises we will be using the program MEGA (Molecular Evolutionary Ge
 
 ![](images/stop-sign.png)
 
-You have been provided with a dataset that consists of the sequences of a gene for a collection of diverse *Mycobacteria* spp. isolates spanning the known diversity of the genus. You can find these sequences in https://github.com/WCSCourses/Molecular_Approaches_Clinical_Microbiology_2024/tree/main/course_data/bioinformatics/phylogenetics. For the workshop we will be running this practical using the Linux virtual machines. You will need to download the data into your user directories on your virtual machine to make it easy to drag-and-drop the files. To do this, open a terminal window and type:
+You have been provided with a dataset that consists of the sequences of a gene for a collection of diverse *Mycobacteria* spp. isolates spanning the known diversity of the genus. You can find these sequences in https://github.com/WCSCourses/Molecular_Approaches_Clinical_Microbiology_2025/tree/main/course_data_2025/bioinformatics/phylogenetics. For the workshop we will be running this practical using the Linux virtual machines. You will need to download the data into your user directories on your virtual machine to make it easy to drag-and-drop the files. To do this, open a terminal window and type:
 
 ```
 cd
