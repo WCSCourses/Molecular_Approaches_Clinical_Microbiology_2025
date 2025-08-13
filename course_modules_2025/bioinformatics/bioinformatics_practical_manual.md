@@ -174,7 +174,7 @@ cd Desktop/phylogenetics
 cp /usr/local/share/MACMA/bioinformatics/*.fas .
 ```
 
-You should now see a new folder on your desktop called 'phylogenetics' that contains two FASTA files (and the tar file that you downloaded). You will be able to drag-and-drop from here into the MEGA window later.
+You should now see a new folder on your desktop called 'phylogenetics' that contains two FASTA files. You will be able to drag-and-drop from here into the MEGA window later.
 
 ![](images/linux_phylo.jpg)
 
