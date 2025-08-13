@@ -131,7 +131,7 @@ We can use this file to create a BLAST database against which we can query the s
 ```
 makeblastdb -in 16S_ref.fasta -dbtype nucl -out 16Sdb
 ```
-Now if you list the contents of the directory, you should see 8 new files: 16Sdb.ndb, 16Sdb.nhr, 16Sdb.nin, 16Sdb.njs, 16Sdb.not, 16Sdb.nsq, 16Sdb.ntf, and 16Sdb.nto. These together comprise the BLAST database.
+Now if you list the contents of the directory, you should see 7 new files: 16Sdb.ndb, 16Sdb.nhr, 16Sdb.nin, 16Sdb.not, 16Sdb.nsq, 16Sdb.ntf, and 16Sdb.nto. These together comprise the BLAST database.
 
 16S sequences have been generated for 4 specimens. You can download these from <https://pubmlst.org/static/training/16S.tar>.
 ```
