@@ -171,13 +171,7 @@ You have been provided with a dataset that consists of the sequences of a gene f
 cd
 mkdir Desktop/phylogenetics
 cd Desktop/phylogenetics
-wget --output-document=phylogenetics.tar https://tinyurl.com/24dzfqk4
-```
-
-This will download a tar file called phylogenetics.tar that contains 2 FASTA files (the long URL was shortened using tinyurl). Extract the FASTA files using the tar command below
-
-```
-tar xvf phylogenetics.tar
+cp /usr/local/share/MACMA/bioinformatics/*.fas .
 ```
 
 You should now see a new folder on your desktop called 'phylogenetics' that contains two FASTA files (and the tar file that you downloaded). You will be able to drag-and-drop from here into the MEGA window later.
