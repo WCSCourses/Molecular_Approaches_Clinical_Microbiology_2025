@@ -484,11 +484,11 @@ You should get the following page below:
 
 ![](images/pubmlst13.png)
 
-We will compare the isolates using the ‘N. meningitidis cgMLST v2’ scheme. This consists of >1400 loci which have been identified as core genes - defined as those present in more than 95% of the meningococcal genomes examined (4). 
+We will compare the isolates using the ‘N. meningitidis cgMLST v3’ scheme. This consists of >1300 loci which have been identified as core genes - defined as those present in more than 98% of the meningococcal genomes examined (4). 
 
-The resulting minimum-spanning tree can be annotated using any associated metadata, which we can select in the ‘Include fields’ section. Using the CTRL (or CMD key if on a Mac) select the following options: ‘capsule group’; ‘clonal complex (MLST)’; ‘country’; ‘disease’; ‘ST (MLST)’; and ‘year’. Click submit. 
+The resulting minimum-spanning tree can be annotated using any associated metadata, which we can select in the ‘Include fields’ section. Select the following options: ‘capsule group’; ‘clonal complex (MLST)’; ‘country’; ‘disease’; ‘ST (MLST)’; ‘year’; and 'LINcode (N. meningitidis cgMLST v3). Click submit. 
 
-The job should take less than 2 minutes to complete. On the resulting page. Click on ‘Launch GrapeTree’.
+The job should take less than a minute to complete. On the resulting page. Click on ‘Launch GrapeTree’.
 
 The following MST will be visible. Each node represents one isolate and clusters of nodes indicate isolates which share allelic profiles in the core genome and are therefore related. Node colours can be changed by expanding the 'Tree Layout' menu and  selecting the metadata field from the 'Node style' dropdown box. Node size can also be altered by dragging the bars on the 'Node size' and 'Kurtosis' (node size relative to number of strains) bars.
 
@@ -512,6 +512,14 @@ Colour schemes can also be altered. Colour the nodes by year, then right click o
 
 4.	Based on this information what can you deduce about the ST-10217 clonal complex?
 
+Experiment with colouring nodes by LIN codes at different thresholds and compare these with clonal complex. You should see that the first two prefix values, e.g. 57_1, clearly group the complexes.
+
+![](images/pubmlst16a.png)
+
+As more of the LIN code threshold prefixes are used, you should see that the complex clusters get further differentiated. The following image uses the first 8 thresholds.
+
+![](images/pubmlst16b.png)
+
 #### Genome Comparator
 Genomes can also be compared using the Genome Comparator tool. This compares isolates using a gene-by-gene method, generates a NeighborNet tree and in addition provides information on the number and precise identification of locus differences among isolates. This tool works particularly well for more highly related isolates. We will use this to analyze ST-10217 isolates. 
 
@@ -523,7 +531,7 @@ This will return 126 records. At the bottom of the page select ‘Genome Compara
 
 ![](images/pubmlst18.png)
 
-On the following page, select the ‘N. meningitidis cgMLST v2’ scheme. Additional isolate identifiers can be included in the analysis although this should be kept to a minimum to prevent the resulting tree becoming overcluttered. Select country and year. Click ‘Submit’.
+On the following page, select the ‘N. meningitidis cgMLST v3’ scheme. Additional isolate identifiers can be included in the analysis although this should be kept to a minimum to prevent the resulting tree becoming overcluttered. Select isolate, country, and year. Click ‘Submit’.
 
 ![](images/pubmlst19.png)
 
