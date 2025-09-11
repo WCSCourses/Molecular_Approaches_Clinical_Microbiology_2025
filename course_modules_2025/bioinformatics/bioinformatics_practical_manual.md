@@ -1,4 +1,4 @@
-# Molecular Approaches to Clinical Microbiology in Africa 2024
+# Molecular Approaches to Clinical Microbiology in Africa 2025
 
 13 - 19 September 2025
  
